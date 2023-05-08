@@ -1,0 +1,9 @@
+<!ELEMENT math (post)>
+<!ELEMENT post (title,author,field,timestamp,content,comments)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT field (#PCDATA)>
+<!ELEMENT timestamp (#PCDATA)>
+<!ELEMENT content (#PCDATA)>
+<!ELEMENT comments (comment+)>
+<!ELEMENT comment (author,field,timestamp,content)>

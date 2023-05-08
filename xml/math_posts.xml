@@ -1,0 +1,24 @@
+<!DOCTYPE math SYSTEM "math_posts.dtd">
+<math>
+    <post>
+        <title>Mon premier fil de math</title>
+        <author>PhilMath</author>
+        <field>Baccalauréat en Mathématiques</field>
+        <timestamp>1679172856</timestamp>
+        <content>Bonjour!</content>
+        <comments>
+            <comment>
+                <author>MartineMath</author>
+                <field>Baccalauréat en Mathématiques</field>
+                <timestamp>1679345806</timestamp>
+                <content>Salut!</content>
+            </comment>
+            <comment>
+                <author>RenaudPsy</author>
+                <field>Baccalauréat en Psychologie</field>
+                <timestamp>1679347772</timestamp>
+                <content>Bonsoir.</content>
+            </comment>
+        </comments>
+    </post>
+</math>
